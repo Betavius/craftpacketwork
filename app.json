@@ -1,0 +1,7 @@
+{
+  "name": "Start on APP: Node.js",
+  "description": "Node js Works",
+  "repository": "https://github.com/Betavius/craftpacketwork",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
